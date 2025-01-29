@@ -42,10 +42,3 @@ La aplicación web fue desplegada públicamente en Netlify, facilitando el acces
 
 # 4. Conclusión 
 En esta práctica he demostrado la capacidad de integrar Three.js con React para crear una aplicación web interactiva y visualmente atractiva. La recreación del cubo de Rubik no solo cumplió con los requisitos básicos, sino que también se enriqueció con funcionalidades adicionales como el contador de movimientos y el randomizador, mejorando la experiencia del usuario. La decisión de utilizar React para la interfaz permitió una gestión eficiente de los estados y una fácil implementación de nuevas características, mientras que Three.js proporcionó las herramientas necesarias para manejar gráficos 3D de manera efectiva.
-
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
